@@ -17,7 +17,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open index.html",
-            "file": "c:\\Users\\DELL\\Desktop\\Web Development\\index.html"
+            "file": "c:\\Users\\DELL\\Desktop\\Web Development\\Blog preview card\\index.html"
         }
     ]
 }
